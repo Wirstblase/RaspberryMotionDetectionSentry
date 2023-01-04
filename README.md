@@ -12,3 +12,7 @@ Usage:
 -run program
 
 -tweak thresholds and exposure settings if needed (may differ based on your camera module and lighting conditions)
+
+if it detects motion it will capture an image of the intruder and save it in a folder called "pics" (if it throws an error you might have to create the folder manually, next to the python file)
+
+!check console for threshold values and exposure values!
